@@ -1,5 +1,5 @@
 <template>
-    <h1>Expense Tracker</h1>
+    <h1>Salary Management</h1>
 </template>
 
 
